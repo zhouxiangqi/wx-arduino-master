@@ -8,6 +8,4 @@ while True:
     cmd = raw_input()
     if cmd == 'exit': break
     print info
-    
-###########################
 
